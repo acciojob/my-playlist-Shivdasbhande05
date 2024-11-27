@@ -20,3 +20,7 @@ a{
 	padding : 10 px;
 	border-radius : 10px;
 }
+div{
+	display : block;
+	background-color: white;
+}
